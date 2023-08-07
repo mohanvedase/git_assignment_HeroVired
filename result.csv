@@ -1,0 +1,6 @@
+id,module,name,file,doc,markers,status,message,duration
+test_CalculatorPlus.py::test_add_two_numbers,test_CalculatorPlus,test_add_two_numbers,test_CalculatorPlus.py,,,passed,,0.0012978999875485897
+test_CalculatorPlus.py::test_subtract_two_numbers,test_CalculatorPlus,test_subtract_two_numbers,test_CalculatorPlus.py,,,passed,,0.009358100011013448
+test_CalculatorPlus.py::test_multiply_two_numbers,test_CalculatorPlus,test_multiply_two_numbers,test_CalculatorPlus.py,,,passed,,0.0011946000158786774
+test_CalculatorPlus.py::test_divide_two_numbers,test_CalculatorPlus,test_divide_two_numbers,test_CalculatorPlus.py,,,passed,,0.001341200084425509
+test_CalculatorPlus.py::test_square_root_two_numbers,test_CalculatorPlus,test_square_root_two_numbers,test_CalculatorPlus.py,,,passed,,0.0012037999695166945
