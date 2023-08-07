@@ -14,6 +14,7 @@ class Calculator:
     def square_root(self,x):
         return math.sqrt(x)  
 
+
 if "__name__" == "__main__":
     calculator = Calculator()
 num1 = 16
